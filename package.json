@@ -1,0 +1,8 @@
+{
+  "name": "test_node",
+  "version": "0.0.1",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-register": "^6.18.0"
+  }
+}
